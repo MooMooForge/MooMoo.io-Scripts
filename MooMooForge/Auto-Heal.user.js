@@ -36,7 +36,7 @@ MooMoo.addEventListener("updatehealth", (data) => {
 
         // https://nuroc.github.io/MooMoo.js/Player#placing-items
         setTimeout(() => {
-            Moomoo.MyPlayer.place(food)
+            MooMoo.MyPlayer.place(food)
         }, AUTOHEAL_SPEED)
     }
 })
