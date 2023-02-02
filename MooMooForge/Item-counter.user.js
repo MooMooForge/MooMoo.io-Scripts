@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         MooMoo.io Item counter
-// @version      1.1
+// @version      1.2
 // @description  display, how many items you have placed
 // @author       Nuro
 // @match        *://*.moomoo.io/*
-// @require      https://greasyfork.org/scripts/456235-moomoo-js/code/MooMoojs.js?version=1138254
+// @require      https://greasyfork.org/scripts/456235-moomoo-js/code/MooMoojs.js
 // @run-at       document-start
+// @updateURL    https://greasyfork.org/scripts/429699/code.user.js
+// @downloadURL  https://greasyfork.org/scripts/429699/code.user.js
 // @namespace -
 // ==/UserScript==
 

@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Anti-curse Bypass
 // @version      1.0.0
-// @description  Bypasses the anti-profanity chat in MooMoo.io
+// @description  Anti-Curse Bypass script for MooMoo.io that allows you to bypass the anti-profanity chat filter in the game
 // @author       Nuro
 // @grant        none
 // @match        *://*.moomoo.io/*
 // @run-at       document-end
-// @require      https://greasyfork.org/scripts/456235-moomoo-js/code/MooMoojs.js?version=1138845
+// @require      https://greasyfork.org/scripts/456235-moomoo-js/code/MooMoojs.js
 // ==/UserScript==
 
 /*
