@@ -12,7 +12,7 @@
 
 ## [Freecam](./MooMooForge/FreeCam.user.js)
 
-**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/459409-moomoo-io-freecam)**
+**[CLICK TO INSTALL FREECAM MOD](https://greasyfork.org/en/scripts/459409-moomoo-io-freecam)**
 
 > lets you move around freely
 
@@ -22,7 +22,7 @@
 
 Automatically reload the page on `disconnect` and handle errors such as `"Server is full"`
 
-**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/446827-moomoo-io-auto-reloader)**
+**[CLICK TO INSTALL THE AUTO RELOADER](https://greasyfork.org/en/scripts/446827-moomoo-io-auto-reloader)**
 
 <img src="https://i.imgur.com/1Hnii50.png" height="200em"/>
 
@@ -31,7 +31,7 @@ Automatically reload the page on `disconnect` and handle errors such as `"Server
 
 > Allows to connect to the full server
 
-**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/447986-moomoo-io-force-connect)**
+**[CLICK TO INSTALL FORCE CONNECT](https://greasyfork.org/en/scripts/447986-moomoo-io-force-connect)**
 
 <img src="https://i.imgur.com/oEtxAUg.png" height="100"/>
 
@@ -39,7 +39,7 @@ Automatically reload the page on `disconnect` and handle errors such as `"Server
 
 > Allows to change zoom of the game using mouse wheels
 
-**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/447069-moomoo-io-zoom-hack)**
+**[CLICK TO INSTALL ZOOM HACK](https://greasyfork.org/en/scripts/447069-moomoo-io-zoom-hack)**
 
 <img src="https://i.imgur.com/NVZH8RP.png" height="200em"/>
 
@@ -47,6 +47,6 @@ Automatically reload the page on `disconnect` and handle errors such as `"Server
 
 > Adds a new cyan color to the color selection panel
 
-**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/447714-moomoo-io-new-cyan-color)**
+**[CLICK TO GET THE NEW CYAN COLOR](https://greasyfork.org/en/scripts/447714-moomoo-io-new-cyan-color)**
 
 <img src="https://i.imgur.com/cFzimNr.png" height="150em"/>
