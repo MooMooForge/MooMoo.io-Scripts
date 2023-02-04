@@ -50,3 +50,17 @@ Automatically reload the page on `disconnect` and handle errors such as `"Server
 **[CLICK TO GET THE NEW CYAN COLOR](https://greasyfork.org/en/scripts/447714-moomoo-io-new-cyan-color)**
 
 <img src="https://i.imgur.com/cFzimNr.png" height="150em"/>
+
+## [Game grid removal]
+
+> Removes the game grid
+
+**[CLICK TO DOWNLOAD NO GRID MOD](https://greasyfork.org/en/scripts/446976-moomoo-io-game-grid-removal)**
+
+<img src="https://i.imgur.com/Cf2GKSe.png" height="200em"/>
+
+## <img src="https://i.imgur.com/RigUeNF.png" height="35"/> Anti Spacebar Scroll [Sploop.io, Moomoo.io]
+
+> Removes scrolling when pressing spacebar
+
+**[CLICK TO DOWNLOAD THE SCRIPT](https://greasyfork.org/en/scripts/447797-anti-spacebar-scroll-sploop-io-moomoo-io)**
